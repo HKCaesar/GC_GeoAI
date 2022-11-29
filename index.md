@@ -4,6 +4,9 @@
 + A new career research.
 # Research interest
 + I develop and apply innovative information technologies related research, focusing on Geographical Information Systems (GIS), Remote Sensing (RS), Sensor, Visualisation, and Numerical Modelling in Earth Observation, Disaster Management, and Earth Resources Management.
+# Editorial 
++ [1]2022– present Invited Topic Editor for Journals of Hydrology, Remote Sensing, Soil Systems, Sustainability, Water, Topic: Hydrology and Water Resources in Agriculture, and Ecology,https://www.mdpi.com/topics/hydrology_water_agriculture_ecology
++ [2]2021 – present Guest Co-lead Editor for Special Issue of Advanced Earth Observations of Forest and Wetland Environment, Remote Snesing,          https://www.mdpi.com/topics/hydrology_water_agriculture_ecology
 # Publications
 + [1]Zhang, Q.,et al.(2019). A new roadextraction method using Sentinel-1 SAR images based on the deep fully convolutional neuralnetwork,
    European Journal of Remote Sensing, 52(1), 572-582.
